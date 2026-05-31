@@ -110,16 +110,6 @@ Como desarrollador, me apasiona el autoaprendizaje constante, construyendo aplic
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanruiz1028&show_icons=true&theme=radial&locale=es" alt="Estadísticas de GitHub de Bryan" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanruiz1028&layout=compact&theme=radial&locale=es" alt="Lenguajes más usados de Bryan" />
-</p>
-
----
 
 ### ✉️ Conectemos
 *   💼 **LinkedIn:** [linkedin.com/in/bryan-ruiz-delgado](https://www.linkedin.com/in/bryan-ruiz-delgado)
