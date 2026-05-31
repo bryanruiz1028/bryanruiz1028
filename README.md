@@ -100,12 +100,13 @@ Como desarrollador, me apasiona el autoaprendizaje constante, construyendo aplic
 #### ⚛️ Frontend
 *   **[react-todo-list](https://github.com/bryanruiz1028/react-todo-list)** - Aplicación interactiva de gestión de tareas construida con React. Utiliza `useState` para el manejo de estados de las tareas (agregar, editar, completar y eliminar) y persistencia automatizada en `LocalStorage`.
 *   **[react-shopping-cart](https://github.com/bryanruiz1028/react-shopping-cart)** - Simulador de carrito de compras interactivo para e-commerce. Permite actualizar cantidades, calcular totales al instante y alternar paneles de compra reactivamente.
-*   **[bingo-js](https://github.com/bryanruiz1028/bingo-js)** - Lógica algorítmica para un juego interactivo de Bingo desarrollado sobre el navegador web utilizando JavaScript puro.
+*   **[bingo-game-js](https://github.com/bryanruiz1028/bingo-game-js)** - Motor algorítmico y visual para el juego interactivo del Bingo en el navegador desarrollado con JavaScript puro (ES6+).
 
 #### 🐍 Backend & Lógica
 *   **[django-password-generator](https://github.com/bryanruiz1028/django-password-generator)** - Aplicación web que genera contraseñas seguras y aleatorias basadas en parámetros configurables. Desarrollado con Python, el Framework Django y estilizado con Bootstrap.
 *   **[age-calculator-python](https://github.com/bryanruiz1028/age-calculator-python)** - Script de consola de alta precisión lógica que calcula la edad exacta determinando años bisiestos y validando días por mes.
-*   **[portafolio-matematicas](https://github.com/bryanruiz1028/portafolio-matematicas)** - Biblioteca de scripts lógicos en Python enfocados en la resolución de fórmulas matemáticas y algoritmos educacionales.
+*   **[portafolio-matematicas](https://github.com/bryanruiz1028/portafolio-matematicas)** - Biblioteca modular de algoritmos y scripts matemáticos interactivos en Python aplicados a la docencia técnica.
+*   **[algoritmos-cpp](https://github.com/bryanruiz1028/algoritmos-cpp)** - Colección didáctica de algoritmos de lógica estructurada y estructuras de control estáticas en C++.
 
 ---
 
