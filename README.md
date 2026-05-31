@@ -1,12 +1,126 @@
-<h1 align="center">Hi 👋, I'm Bryan Ruiz</h1>
-<h3 align="center">Passionate front-end developer dedicated to creating attractive and functional user interfaces. Specializing in HTML, CSS, and JavaScript, with experience in frameworks like React.js and Angular. Committed to best development practices and writing clean code. Always eager to take on new challenges and collaborate on front-end projects. Ready to build the future of the web together</h3>
+# ¡Hola! Soy Bryan Ruiz Delgado 👋
 
-- 📫 How to reach me **bruiz015@fcjse.utb.edu.ec**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bryan-ruiz-delgado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan eduardo ruiz delgado" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Mag%C3%ADster%20en%20Pedagog%C3%ADa%20Digital-blue?style=for-the-badge&logo=education" alt="Magíster en Pedagogía en Entornos Digitales">
+  <img src="https://img.shields.io/badge/Role-Licenciado%20en%20Inform%C3%A1tica-green?style=for-the-badge&logo=pc" alt="Licenciado en Pedagogía de la Informática">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=for-the-badge&logo=javascript" alt="Full Stack Developer">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Sobre Mí
+Soy un profesional ecuatoriano con un perfil híbrido único que une la **Pedagogía en Entornos Digitales**, la **Informática Educativa** y el **Desarrollo de Software Full Stack**. Creo firmemente en transformar los procesos de enseñanza-aprendizaje a través de la tecnología aplicada de forma ética y accesible.
+
+Como desarrollador, me apasiona el autoaprendizaje constante, construyendo aplicaciones web y móviles interactivas con stacks modernos como **React (Frontend)**, **Node.js/Express y Python/Django (Backend)**, y bases de datos **SQL / NoSQL**.
+
+* 📍 Francisco de Orellana (El Coca), Ecuador
+* 🎓 Magíster en Educación mención Pedagogía en Entornos Digitales (UBE, 2026)
+* 🎓 Licenciado en Pedagogía de la Informática (UTB, 2024)
+* 💼 Ex-Responsable TIC y Docente Técnico de Informática y Matemáticas
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
+      <br />Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      <br />Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      <br />MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br />MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      <br />CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br />C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br />C
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      <br />Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" width="48" height="48" alt="Moodle" />
+      <br />Moodle LMS
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Proyectos Destacados (Featured Projects)
+
+#### ⚛️ Frontend
+*   **[react-todo-list](https://github.com/bryanruiz1028/react-todo-list)** - Aplicación interactiva de gestión de tareas construida con React. Utiliza `useState` para el manejo de estados de las tareas (agregar, editar, completar y eliminar) y persistencia automatizada en `LocalStorage`.
+*   **[react-shopping-cart](https://github.com/bryanruiz1028/react-shopping-cart)** - Simulador de carrito de compras interactivo para e-commerce. Permite actualizar cantidades, calcular totales al instante y alternar paneles de compra reactivamente.
+*   **[bingo-js](https://github.com/bryanruiz1028/bingo-js)** - Lógica algorítmica para un juego interactivo de Bingo desarrollado sobre el navegador web utilizando JavaScript puro.
+
+#### 🐍 Backend & Lógica
+*   **[django-password-generator](https://github.com/bryanruiz1028/django-password-generator)** - Aplicación web que genera contraseñas seguras y aleatorias basadas en parámetros configurables. Desarrollado con Python, el Framework Django y estilizado con Bootstrap.
+*   **[age-calculator-python](https://github.com/bryanruiz1028/age-calculator-python)** - Script de consola de alta precisión lógica que calcula la edad exacta determinando años bisiestos y validando días por mes.
+*   **[portafolio-matematicas](https://github.com/bryanruiz1028/portafolio-matematicas)** - Biblioteca de scripts lógicos en Python enfocados en la resolución de fórmulas matemáticas y algoritmos educacionales.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanruiz1028&show_icons=true&theme=radial&locale=es" alt="Estadísticas de GitHub de Bryan" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanruiz1028&layout=compact&theme=radial&locale=es" alt="Lenguajes más usados de Bryan" />
+</p>
+
+---
+
+### ✉️ Conectemos
+*   💼 **LinkedIn:** [linkedin.com/in/bryan-ruiz-delgado](https://www.linkedin.com/in/bryan-ruiz-delgado)
+*   📧 **Email:** brayanruiz1028@gmail.com / brayanruiz2810@gmail.com
+*   📝 **Portafolio Profesional de Obsidian (Local):** Ecosistema interconectado con más de 20 certificados, bitácoras de proyectos TIC y mi plan de carrera estructurado.
