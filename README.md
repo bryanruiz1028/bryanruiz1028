@@ -97,7 +97,8 @@ Como desarrollador, me apasiona el autoaprendizaje constante, construyendo aplic
 
 ### 🚀 Proyectos Destacados (Featured Projects)
 
-#### ⚛️ Frontend
+#### ⚛️ Frontend / EdTech
+*   **[lms-lite](https://github.com/bryanruiz1028/lms-lite)** - Plataforma interactiva y gamificada de gestión de aprendizaje (LMS) desarrollada en React, NextUI y Tailwind CSS. Cuenta con sistema de niveles por experiencia (XP), visualizador de lecciones interactivas con notas pedagógicas y foro de dudas, evaluaciones de selección múltiple con celebraciones animadas, y un panel de administración con analíticas del aprendizaje en tiempo real y persistencia local en `LocalStorage`.
 *   **[react-todo-list](https://github.com/bryanruiz1028/react-todo-list)** - Aplicación interactiva de gestión de tareas construida con React. Utiliza `useState` para el manejo de estados de las tareas (agregar, editar, completar y eliminar) y persistencia automatizada en `LocalStorage`.
 *   **[react-shopping-cart](https://github.com/bryanruiz1028/react-shopping-cart)** - Simulador de carrito de compras interactivo para e-commerce. Permite actualizar cantidades, calcular totales al instante y alternar paneles de compra reactivamente.
 *   **[bingo-game-js](https://github.com/bryanruiz1028/bingo-game-js)** - Motor algorítmico y visual para el juego interactivo del Bingo en el navegador desarrollado con JavaScript puro (ES6+).
@@ -110,6 +111,16 @@ Como desarrollador, me apasiona el autoaprendizaje constante, construyendo aplic
 
 ---
 
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanruiz1028&show_icons=true&theme=radial&locale=es" alt="Estadísticas de GitHub de Bryan" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanruiz1028&layout=compact&theme=radial&locale=es" alt="Lenguajes más usados de Bryan" />
+</p>
+
+---
 
 ### ✉️ Conectemos
 *   💼 **LinkedIn:** [linkedin.com/in/bryan-ruiz-delgado](https://www.linkedin.com/in/bryan-ruiz-delgado)
